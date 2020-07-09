@@ -2,6 +2,7 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import {Howl, Howler} from 'howler';
 import AudioPlayer from 'react-h5-audio-player';
+import './Display.css'
 
 export default class Display extends React.Component{
     constructor(props) {
@@ -12,13 +13,11 @@ export default class Display extends React.Component{
         };
     }
     audio = new Howl({
-        src: ['5khz.mp3']
+        src: ['audio50ms.wav']
     })
 
-    toggleAudio = () => {
-        this.setState({ play: !this.state.play }, () => {
-            this.state.play ? this.audio.play() : this.audio.pause();
-            });
+    chirp = () => {
+        this.audio.play()
     }
     
 
@@ -37,18 +36,25 @@ export default class Display extends React.Component{
     render() {
         return (
             <div>
-            <AudioPlayer 
-                style={{
-                    width: '400px'
-                }}
-                src = '5khz.mp3'
-            ></AudioPlayer>
-
+                <h1 className='Display'>Welcome</h1>
+            <div className='Display-header'>
+                <h2>Audio</h2>
+                <p>This is a 50ms sample of audio at 22kHz</p>
             <Button variant="primary"
-                onClick={() => this.handleClick()}
-            >
-            Connect
-            </Button>
+                    onClick={this.chirp}
+                >
+                Chirp
+                </Button>
+            </div>
+            <div className='Display-header'>
+                <h2>Bluetooth</h2>
+                <p>Click to connect your bluetooth device to the browser</p>
+                <Button variant="primary"
+                    onClick={() => this.handleClick()}
+                >
+                Connect
+                </Button>
+                </div>
             </div>
 
           
