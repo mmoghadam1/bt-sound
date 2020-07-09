@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c814401e4aac08d70201c5b19d4042e",
+    "revision": "7af1389ddafb3d5e147d338105c98d52",
     "url": "/bt-sound/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bt-sound/static/css/2.3c91ddaf.chunk.css"
   },
   {
-    "revision": "7e96dba20f3c00a6f95a",
+    "revision": "6529c0d920c1341ce2f4",
     "url": "/bt-sound/static/css/main.211da052.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bt-sound/static/js/2.ca7958cd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e96dba20f3c00a6f95a",
-    "url": "/bt-sound/static/js/main.fd7e600f.chunk.js"
+    "revision": "6529c0d920c1341ce2f4",
+    "url": "/bt-sound/static/js/main.190db068.chunk.js"
   },
   {
     "revision": "461353b0f2b9383bcd6d",
