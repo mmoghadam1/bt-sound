@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bt-sound/static/css/main.7748e6b3.chunk.css",
+    "main.js": "/bt-sound/static/js/main.fdb912e2.chunk.js",
+    "main.js.map": "/bt-sound/static/js/main.fdb912e2.chunk.js.map",
+    "runtime-main.js": "/bt-sound/static/js/runtime-main.e31bc573.js",
+    "runtime-main.js.map": "/bt-sound/static/js/runtime-main.e31bc573.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bt-sound/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.76e59933.chunk.js": "/bt-sound/static/js/2.76e59933.chunk.js",
+    "static/js/2.76e59933.chunk.js.map": "/bt-sound/static/js/2.76e59933.chunk.js.map",
+    "index.html": "/bt-sound/index.html",
+    "precache-manifest.29dccf49f70e1cc01f8da1493c0f5c8a.js": "/bt-sound/precache-manifest.29dccf49f70e1cc01f8da1493c0f5c8a.js",
+    "service-worker.js": "/bt-sound/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bt-sound/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.7748e6b3.chunk.css.map": "/bt-sound/static/css/main.7748e6b3.chunk.css.map",
+    "static/js/2.76e59933.chunk.js.LICENSE.txt": "/bt-sound/static/js/2.76e59933.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31bc573.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.76e59933.chunk.js",
+    "static/css/main.7748e6b3.chunk.css",
+    "static/js/main.fdb912e2.chunk.js"
+  ]
+}
