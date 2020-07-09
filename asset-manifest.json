@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bt-sound/static/css/main.211da052.chunk.css",
-    "main.js": "/bt-sound/static/js/main.38bf6884.chunk.js",
-    "main.js.map": "/bt-sound/static/js/main.38bf6884.chunk.js.map",
+    "main.js": "/bt-sound/static/js/main.fd7e600f.chunk.js",
+    "main.js.map": "/bt-sound/static/js/main.fd7e600f.chunk.js.map",
     "runtime-main.js": "/bt-sound/static/js/runtime-main.e31bc573.js",
     "runtime-main.js.map": "/bt-sound/static/js/runtime-main.e31bc573.js.map",
     "static/css/2.3c91ddaf.chunk.css": "/bt-sound/static/css/2.3c91ddaf.chunk.css",
     "static/js/2.ca7958cd.chunk.js": "/bt-sound/static/js/2.ca7958cd.chunk.js",
     "static/js/2.ca7958cd.chunk.js.map": "/bt-sound/static/js/2.ca7958cd.chunk.js.map",
     "index.html": "/bt-sound/index.html",
-    "precache-manifest.fb1e40aa5e5c27b72d7c8717f5359262.js": "/bt-sound/precache-manifest.fb1e40aa5e5c27b72d7c8717f5359262.js",
+    "precache-manifest.d30a6db56416f386a8a2790c02d8e727.js": "/bt-sound/precache-manifest.d30a6db56416f386a8a2790c02d8e727.js",
     "service-worker.js": "/bt-sound/service-worker.js",
     "static/css/2.3c91ddaf.chunk.css.map": "/bt-sound/static/css/2.3c91ddaf.chunk.css.map",
     "static/css/main.211da052.chunk.css.map": "/bt-sound/static/css/main.211da052.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.3c91ddaf.chunk.css",
     "static/js/2.ca7958cd.chunk.js",
     "static/css/main.211da052.chunk.css",
-    "static/js/main.38bf6884.chunk.js"
+    "static/js/main.fd7e600f.chunk.js"
   ]
 }
