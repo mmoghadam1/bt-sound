@@ -39,7 +39,7 @@ export default class Display extends React.Component{
                 <h1 className='Display'>Welcome</h1>
             <div className='Display-header'>
                 <h2>Audio</h2>
-                <p>This is a 50ms sample of audio at 22kHz</p>
+                <p>This is a 50ms sample of audio aaat 22kHz</p>
             <Button variant="primary"
                     onClick={this.chirp}
                 >
