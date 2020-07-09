@@ -1,6 +1,7 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import {Howl, Howler} from 'howler';
+import AudioPlayer from 'react-h5-audio-player';
 
 export default class Display extends React.Component{
     constructor(props) {
@@ -36,15 +37,17 @@ export default class Display extends React.Component{
     render() {
         return (
             <div>
-                <Button variant="primary"
+            <AudioPlayer 
+                style={{
+                    width: '400px'
+                }}
+                src = '5khz.mp3'
+            ></AudioPlayer>
+
+            <Button variant="primary"
                 onClick={() => this.handleClick()}
             >
-                Connect
-            </Button>
-            <Button variant="primary"
-                onClick={this.toggleAudio}
-            >
-                {this.state.play ? 'Pause' : 'Play'}
+            Connect
             </Button>
             </div>
 
